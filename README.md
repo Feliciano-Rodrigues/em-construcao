@@ -1,1 +1,1 @@
-[Veja meus projetos](https://feliciano-rodrigues.github.io/em-construcao/projetos.html)
+[Veja meus projetos](https://feliciano-rodrigues.github.io/em-construcao/)
